@@ -1,0 +1,46 @@
+color_name,R,G,B
+Red,255,0,0
+Red,200,0,0
+Dark Red,139,0,0
+Dark Red,128,0,0
+Green,0,255,0
+Green,0,128,0
+Green,50,205,50
+Dark Green,0,100,0
+Light Green,144,238,144
+Green,34,139,34
+Green,120,150,120
+Blue,0,0,255
+Blue,0,0,139
+Dark Blue,0,0,128
+Light Blue,173,216,230
+Sky Blue,135,206,235
+Cornflower Blue,100,149,237
+Yellow,255,255,0
+Light Yellow,255,255,224
+Khaki,240,230,140
+Pale Yellow,255,255,102
+Orange,255,165,0
+Dark Orange,255,140,0
+Orange,255,200,0
+Dark Orange,255,100,0
+Pink,255,192,203
+Hot Pink,255,105,180
+Deep Pink,255,20,147
+Light Pink,255,182,193
+Purple,128,0,128
+Medium Purple,147,112,219
+Blue Violet,138,43,226
+Violet,148,0,211
+Dark Violet,72,61,139
+Grey,128,128,128
+Dark Grey,105,105,105
+Light Grey,211,211,211
+Silver,192,192,192
+Black,0,0,0
+White,255,255,255
+Brown,139,69,19
+Saddle Brown,165,42,42
+Tan,210,180,140
+Maroon,128,0,0
+Indigo,75,0,130
